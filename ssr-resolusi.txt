@@ -3,4 +3,3 @@ Resolusi Tahun 2020 :
 - Belajar CSS
 - Belajar PHP
 - Belajar Javascript
-- Belajar Codeigniter
