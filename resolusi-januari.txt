@@ -1,5 +1,7 @@
 Resolusi bulan Januari 2020
 - Belajar HTML 5
+  * Belajar Dasar HTML 5
 - Belajar CSS 3
   * Belajar Membuat Layout web
-- Belajar PHP Dasar
+  * Belajar Dasar CSS 3
+
